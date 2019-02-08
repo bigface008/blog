@@ -30,6 +30,14 @@ $ hexo d                     # 发布到Github服务器
 
 可以[用Livereload或BrowserSync自动刷新](https://jerry011235.github.io/2015/05/07/Hexo%E4%B8%8D%E9%87%8D%E6%96%B0%E7%94%9F%E6%88%90%E4%B9%9F%E5%8F%AF%E9%A2%84%E8%A7%88/)。目前使用BrowserSync，直接执行命令`hexo s`便可预览博客并实时刷新。
 
+目前有个奇怪的事情，最后发布的时候直接`hexo d`貌似只会发布旧的内容，
+
+```bash
+$ hexo clean;hexo g;hexo d
+```
+
+才会发布最新的。
+
 ### 其他
 
 - about的信息存放在[source/about/index.md](../about/index.md)中。

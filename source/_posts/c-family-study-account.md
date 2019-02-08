@@ -22,7 +22,7 @@ categories:
 
 我求你记住。
 
-## [align.c](./align.c)
+## [align.c](https://github.com/bigface008/learn-c-family/blob/master/align.c)
 
 根据输入参数对齐输入文本。
 
