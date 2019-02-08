@@ -12,7 +12,7 @@ tags:
 
 ### 博客编写原则
 
-本博客使用[Hexo](https://hexo.io/)博客框架进行搭建，用于记录、总结学习过程中的各种零碎知识。主要编写原则是
+本博客使用[Hexo](https://hexo.io/)博客框架、[maupassant-hexo](https://www.haomwei.com/technology/maupassant-hexo.html)主题进行搭建，用于记录、总结学习过程中的各种零碎知识。主要编写原则是
 
 - 简明、朴素。
 - 仅包含学习相关内容。
