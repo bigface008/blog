@@ -5,7 +5,7 @@ toc: true
 tags:
 - c
 - c++
-- study-notes
+- learn
 categories:
 - c/c++
 ---
