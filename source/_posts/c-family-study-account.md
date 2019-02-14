@@ -47,3 +47,15 @@ argc是命令中所有参数的个数（包括./a.out）。也就是说，对于
 
 从别处复制过来的文本里包括了非ascii字符，这使得某一行计算字符数的时候总会多加一些。把那个字符换成对应的ascii字符就好了。（字符编码方式真是血的教训）
 
+## [lower.c](https://github.com/bigface008/learn-c-family/blob/master/lower.c)
+
+把输入参数转换成小写模式并输出。
+
+```bash
+$ gcc lower.c
+$ ./a.out AuS
+```
+
+### 弄反了ascii字符中字母的顺序
+
+ascii中大写字母是比小写字母要小的。
