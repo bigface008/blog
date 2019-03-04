@@ -1,5 +1,5 @@
 ---
-title: C/C++ Study Notes
+title: C/C++ 学习笔记
 date: 2019-02-08 20:05:21
 toc: true
 tags:
