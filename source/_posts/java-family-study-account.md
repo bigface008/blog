@@ -23,4 +23,8 @@ categories:
 
 Settings > Plugins。
 
+## 80列处显示标记线
+
+Settings > Editor > Code Style。
+
 # Spring
